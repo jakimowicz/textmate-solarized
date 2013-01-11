@@ -2128,7 +2128,17 @@
 				<string>#cb4b16</string>
 			</dict>
 		</dict>
-
+		<dict>
+			<key>name</key>
+			<string>highlight mixed tabs/spaces and trailing whitespace</string>
+			<key>scope</key>
+			<string>invalid.illegal.whitespace.trailing, invalid.illegal.whitespace.mixed</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#aa0000</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>A4299D9B-1DE5-4BC4-87F6-A757E71B1597</string>
